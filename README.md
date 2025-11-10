@@ -20,7 +20,11 @@
 
 ## 📂 Repository Structure
 ### 💻 C Language Labs
-#### day002
-- [아스키 코드 표](https://github.com/baby-beepboop/KCCI/blob/main/C/day002/class02-prac_asciiCodeTable.c) etc...
+- [아스키 코드 표](https://github.com/baby-beepboop/KCCI/blob/main/C/day002/class02-prac_asciiCodeTable.c)
+- [비트 연산](https://github.com/baby-beepboop/KCCI/blob/main/C/day003/class04-prac_bitwiseOperation.c)
+- [소수 출력](https://github.com/baby-beepboop/KCCI/blob/main/C/day003/hw_p205_primeNum.c)
+- [stack을 활용한 계산기 프로그램](https://github.com/baby-beepboop/KCCI/blob/main/C/day004/hw04_cal_struct.c)
+- [함수 포인터 배열, 구조체 동적 메모리 할당을 이용한 은행 프로그램](https://github.com/baby-beepboop/KCCI/blob/main/C/day005/hw02_bank_funcPointerAry_structMalloc.c)
+
 
 ### ⚙️ Verilog Labs
