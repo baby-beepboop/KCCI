@@ -29,3 +29,18 @@
 
 ## [소수 출력](https://github.com/baby-beepboop/KCCI/blob/main/C/day003/hw_p205_primeNum.c)
 - 입력받은 정수보다 작은 소수 출력
+
+## [구조체를 활용한 은행 프로그램](https://github.com/baby-beepboop/KCCI/blob/main/C/day004/class01_bank_struct.c)
+- 구조체와 함수를 활용하여 은행 프로그램 만들기
+- 프로그램 메뉴: 계좌 개설, 입금, 출금, 모든 계좌 정보 보기
+
+## [shift 연산자와 atoi 함수를 활용한 비트 연산](https://github.com/baby-beepboop/KCCI/blob/main/C/day004/hw01_bitwiseOper_bitShiftNatoi)
+- 두 정수의 비트 단위 AND, OR, XOR, NOT, 오른쪽 쉬프트, 왼쪽 쉬프트 계산
+
+## [함수와 포인터를 활용한 문자열 합치기](https://github.com/baby-beepboop/KCCI/blob/main/C/day004/hw03_mergeStrings.c)
+- 두 개의 문자열을 하나의 문자열로 합치기
+
+## [stack을 활용한 계산기 프로그램](https://github.com/baby-beepboop/KCCI/blob/main/C/day004/hw04_cal_struct.c)
+- stack 구조를 활용하여 계산기 프로그램 만들기
+- 연산자 우선순위 고려
+- 후위 표기법 활용
