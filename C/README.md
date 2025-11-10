@@ -19,3 +19,13 @@
 
 ## [문자열 합치기](https://github.com/baby-beepboop/KCCI/blob/main/C/day002/class03_string.c)
 - string.h 함수를 이용하여 두 개의 문자열을 하나의 문자열로 합치기
+
+## [열거형 enum](https://github.com/baby-beepboop/KCCI/blob/main/C/day003/class02_enum.c)
+- 열거형 enum 예제
+
+## [2의 보수를 이용한 비트 연산](https://github.com/baby-beepboop/KCCI/blob/main/C/day003/class04-prac_bitwiseOperation.c)
+- shift 연산자를 이용하여 2의 보수 계산
+- 2의 보수를 이용하여 비트 연산
+
+## [소수 출력](https://github.com/baby-beepboop/KCCI/blob/main/C/day003/hw_p205_primeNum.c)
+- 입력받은 정수보다 작은 소수 출력
