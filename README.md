@@ -19,6 +19,8 @@
 <br>
 
 ## 📂 Repository Structure
-### C Language Labs
+### 💻 C Language Labs
+#### day002
+- [아스키 코드 표](https://github.com/baby-beepboop/KCCI/blob/main/C/day002/class02-prac_asciiCodeTable.c) etc...
 
-### Verilog Labs
+### ⚙️ Verilog Labs
