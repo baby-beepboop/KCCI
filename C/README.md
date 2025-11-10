@@ -44,3 +44,20 @@
 - stack 구조를 활용하여 계산기 프로그램 만들기
 - 연산자 우선순위 고려
 - 후위 표기법 활용
+
+## [구조체 포인터를 활용한 은행 프로그램](https://github.com/baby-beepboop/KCCI/blob/main/C/day005/hw01_bank_structPointer.c)
+- 구조체 포인터를 활용하여 은행 프로그램 만들기
+- 프로그램 메뉴: 계좌 개설, 입금, 출금, 모든 계좌 정보 보기
+
+## [함수 포인터 배열과 구조체 동적 할당을 활용한 은행 프로그램](https://github.com/baby-beepboop/KCCI/blob/main/C/day005/hw02_bank_funcPointerAry_structMalloc.c)
+- 함수 포인터 배열과 구조체 동적 할당을 활용하여 은행 프로그램 만들기
+- 프로그램 메뉴: 계좌 개설, 입금, 출금, 모든 계좌 정보 보기
+
+## [대문자를 소문자로 바꾸기](https://github.com/baby-beepboop/KCCI/blob/main/C/day005/hw03_p260_caseConvert.c)
+- 문장을 입력받아 대문자를 소문자로 변환하여 출력
+
+## [실수 크기순 정렬](https://github.com/baby-beepboop/KCCI/blob/main/C/day005/hw04_p289_realNumSorting.c)
+- 실수 3개를 입력받아 크기가 큰 순서대로 정렬하여 출력
+
+## [길이가 가장 긴 단어 찾기](https://github.com/baby-beepboop/KCCI/blob/main/C/day005/hw06_p343_logestWord.c)
+- 단어를 입력받아 길이가 가장 긴 단어 찾기
