@@ -11,9 +11,5 @@
 </h6>
 
 # ⚙️ Verilog Labs
-## 가산기
-- [반가산기](https://github.com/baby-beepboop/KCCI/blob/main/Verilog/day007/class02_adder/halfAdder.v)
-- [반가산기를 활용한 전가산기](https://github.com/baby-beepboop/KCCI/blob/main/Verilog/day007/class02_adder/fullAdder_usingHalfAd.v)
-- [전가산기](https://github.com/baby-beepboop/KCCI/blob/main/Verilog/day007/class02_adder/fullAdder_noHalfAd.v)
-- [4비트 전가산기](https://github.com/baby-beepboop/KCCI/blob/main/Verilog/day007/class02_adder/fullAdder4bit.v)
-- [8비트 전가산기](https://github.com/baby-beepboop/KCCI/blob/main/Verilog/day007/class02_adder/fullAdder8bit.v)
+## [가산기](https://github.com/baby-beepboop/KCCI/tree/main/Verilog/day007_01-adder)
+- 반가산기와 1비트 전가산기, 4비트 전가산기, 8비트 전가산기 설계
