@@ -38,7 +38,7 @@
     <img width="2036" height="473" alt="Image" src="https://github.com/user-attachments/assets/6dbedd7a-78bd-43d5-8146-9cdf80dc0211" />
 </div>
 
-- FPGA 보드
+- FPGA 보드 동작
 <div align="center">
     <img width="567" height="814" alt="Image" src="https://github.com/user-attachments/assets/87d83fbc-6512-4ed1-8b5a-e72ef4a05898" />
 </div>
@@ -50,7 +50,7 @@
     <img width="2053" height="479" alt="Image" src="https://github.com/user-attachments/assets/bb5cf9c9-18e6-4559-8781-3266abb8d495" />
 </div>
 
-- FPGA 보드
+- FPGA 보드 동작
 <div align="center">
     <img width="567" height="409" alt="Image" src="https://github.com/user-attachments/assets/c514c2fe-adb5-47e5-9aa4-36e97822de70" />
 </div>
