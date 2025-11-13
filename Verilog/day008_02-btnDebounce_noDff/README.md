@@ -17,7 +17,7 @@
 
 <br>
 
-### 결과
+### 결과물
 - FPGA 보드 동작
 <div align="center">
     <img alt="Image" src="https://github.com/user-attachments/assets/442cc0f7-9f0c-4cdd-a2a6-f22228d02afb" />
