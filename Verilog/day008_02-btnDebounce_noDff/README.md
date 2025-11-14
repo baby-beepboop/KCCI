@@ -10,15 +10,15 @@
     2025.10.21 - 2025.05.20 (950H)
 </h6>
 
-# ⚙️ 버튼 디바운스
-### 개요
+# ⚙️ Button Debounce
+### Overview
 - 버튼을 누르고 뗄 때 발생하는 약 10ms의 노이즈를 **Timer counter를 활용하여** 디바운싱
 - 버튼을 한 번 눌렀을 때 LED on, 다시 한 번 눌렀을 때 LED off
 
 <br>
 
-### 결과물
-- FPGA 보드 동작
+### Results
+- FPGA Board Operation
 <div align="center">
     <img alt="Image" src="https://github.com/user-attachments/assets/442cc0f7-9f0c-4cdd-a2a6-f22228d02afb" />
 </div>
