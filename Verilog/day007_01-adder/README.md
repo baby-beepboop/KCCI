@@ -10,10 +10,10 @@
     2025.10.21 - 2025.05.20 (950H)
 </h6>
 
-# ⚙️ 가산기
+# ⚙️ Adder
 ## [반가산기](https://github.com/baby-beepboop/KCCI/blob/main/Verilog/day007_01-adder/halfAdder.v)
-### 결과물
-- 시뮬레이션 파형도
+### Results
+- Simulation Waveform
 <div align="center">
     <img width="1918" height="344" alt="Image" src="https://github.com/user-attachments/assets/e9718f47-7048-4e4c-9f69-c254bd1ff963" />
 </div>
@@ -21,8 +21,8 @@
 <br>
 
 ## [반가산기를 활용한 전가산기](https://github.com/baby-beepboop/KCCI/blob/main/Verilog/day007_01-adder/fullAdder_usingHalfAd.v)
-### 결과물
-- 시뮬레이션 파형도
+### Results
+- Simulation Waveform
 <div align="center">
     <img width="1918" height="442" alt="Image" src="https://github.com/user-attachments/assets/92a82e93-bb76-4d34-b7ab-b36a2f8bb0bb" />
 </div>
@@ -30,8 +30,8 @@
 <br>
 
 ## [전가산기](https://github.com/baby-beepboop/KCCI/blob/main/Verilog/day007_01-adder/fullAdder_noHalfAd.v)
-### 결과물
-- 시뮬레이션 파형도
+### Results
+- Simulation Waveform
 <div align="center">
     <img width="1918" height="384" alt="Image" src="https://github.com/user-attachments/assets/987a86e3-50ca-4e30-9f56-34cdc478d8e0" />
 </div>
@@ -39,13 +39,13 @@
 <br>
 
 ## [4비트 전가산기](https://github.com/baby-beepboop/KCCI/blob/main/Verilog/day007_01-adder/fullAdder4bit.v)
-### 결과물
-- 시뮬레이션 파형도
+### Results
+- Simulation Waveform
 <div align="center">
     <img width="2036" height="473" alt="Image" src="https://github.com/user-attachments/assets/6dbedd7a-78bd-43d5-8146-9cdf80dc0211" />
 </div>
 
-- FPGA 보드 동작
+- FPGA Board Operation
 <div align="center">
     <img width="567" height="814" alt="Image" src="https://github.com/user-attachments/assets/87d83fbc-6512-4ed1-8b5a-e72ef4a05898" />
 </div>
@@ -53,13 +53,13 @@
 <br>
 
 ## [8비트 전가산기](https://github.com/baby-beepboop/KCCI/blob/main/Verilog/day007_01-adder/fullAdder8bit.v)
-### 결과물
-- 시뮬레이션 파형도
+### Results
+- Simulation Waveform
 <div align="center">
     <img width="2053" height="479" alt="Image" src="https://github.com/user-attachments/assets/bb5cf9c9-18e6-4559-8781-3266abb8d495" />
 </div>
 
-- FPGA 보드 동작
+- FPGA Board Operation
 <div align="center">
     <img width="567" height="409" alt="Image" src="https://github.com/user-attachments/assets/c514c2fe-adb5-47e5-9aa4-36e97822de70" />
 </div>
