@@ -1,0 +1,35 @@
+module top_ds1302(
+    input clk, rst,
+
+    output sclk, ce,
+    inout  dsData,
+
+    output [3:0] an,
+    output [6:0] seg,
+    output       dp
+    );
+
+    wire tick1s, tick1ms;
+
+    wire [7:0] rtcData;
+    wire rtcValid;
+
+    sclkGen u_sclkGen (.clk100Mhz(clk), .rst(rst), .sclk(sclk));
+
+    // DS1302 읽기 시작 트리거 생성 (1s 펄스)
+    tickGen #(
+        .CLK_FREQ(100_000_000),
+        .TICK_FREQ(1)
+    ) u_tick1sGen (.clk100Mhz(clk), .rst(rst), .tick(tick1s));
+    // FND 스캔 펄스 생성 (1ms)
+    tickGen #(
+        .CLK_FREQ(100_000_000),
+        .TICK_FREQ(1000)
+    ) u_tick1msGen (.clk100Mhz(clk), .rst(rst), .tick(tick1ms));
+
+    ds1302read u_rtcRead (.clk(clk), .rst(rst), .en(tick1s), .sclk(sclk), .ce(ce), .dsData(dsData),
+                          .rtcData(rtcData), .dataValid(rtcValid));
+
+    fndCtrl u_fndCtrl (.clk(clk), .rst(rst), .tick(tick1ms), .rtcData(rtcData), .an(an), .seg(seg));
+
+endmodule
