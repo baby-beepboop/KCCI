@@ -13,7 +13,6 @@
 *.runs/
 *.backup/
 *.tmp
-*.xdc
 
 .vscode/
 .history/
